@@ -30,3 +30,10 @@ Successor of [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker), comin
 <br>
 
 ![RR Adblocker Roadmap](https://github.com/Rutuj-Runwal/RR-Privacy/blob/main/RR%20Adblocker%20EOL.png)
+
+<br>
+
+# Other privacy/Security Projects
+
+#### Xylent - A powerful antivirus for windows [Xylent](https://github.com/Rutuj-Runwal/Xylent)
+#### RR Adblocker - [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker)
